@@ -477,7 +477,7 @@
 
         <div style="font-size: 12px; color: #64748b; margin-top: 16px; line-height: 1.5;">
           Bộ lọc StevenBlack Hosts (hơn 76.000 tên miền) + Nhận diện thông minh • Tự động cập nhật 24h<br>
-          Phát triển bởi <a href="https://github.com/ngxuanhai123/tampermonkey-porn-blocker" target="_blank" style="color: #818cf8; text-decoration: none;">ngxuanhai123</a>
+          Phát triển bởi <a href="https://github.com/ngxuanhai123/tampermonkey-porn-blocker" target="_blank" rel="noopener noreferrer" style="color: #818cf8; text-decoration: none;">ngxuanhai123</a>
         </div>
       </div>
     `;
